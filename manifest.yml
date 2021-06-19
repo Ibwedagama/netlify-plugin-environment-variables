@@ -1,0 +1,5 @@
+name: netlify-plugin-environment-variables
+inputs:
+  - name: suffix
+    required: false
+    default: true

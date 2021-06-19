@@ -1,0 +1,20 @@
+{
+  "name": "netlify-plugin-environment-variables",
+  "description": "Set the value of environment variables on Netlify at build time based on deploy context",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "netlify",
+    "netlify-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bangunbagustapa/netlify-plugin-environment-variables"
+  },
+  "bugs": {
+    "url": "https://github.com/bangunbagustapa/netlify-plugin-environment-variables/issues"
+  },
+  "private": false,
+  "author": "Bangun Bagustapa",
+  "license": "MIT"
+}
