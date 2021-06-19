@@ -1,8 +1,14 @@
 {
   "name": "netlify-plugin-environment-variables",
   "description": "Set the value of environment variables on Netlify at build time based on deploy context",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
   "keywords": [
     "netlify",
     "netlify-plugin"
